@@ -1,0 +1,9 @@
+[submodule "async-workshop"]
+	path = async-workshop
+	url = git@github.com:Seminioni/async-workshop
+[submodule "promise-workshop"]
+	path = promise-workshop
+	url = git@github.com:Seminioni/promise-workshop
+[submodule "functional-js-workshop"]
+	path = functional-js-workshop
+	url = git@github.com:Seminioni/functional-js-workshop

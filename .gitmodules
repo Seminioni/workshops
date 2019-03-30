@@ -7,3 +7,6 @@
 [submodule "functional-js-workshop"]
 	path = functional-js-workshop
 	url = git@github.com:Seminioni/functional-js-workshop
+[submodule "bytewiser-workshop"]
+	path = bytewiser-workshop
+	url = git@github.com:Seminioni/bytewiser-workshop.git
